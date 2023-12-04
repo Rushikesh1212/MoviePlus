@@ -1,0 +1,2 @@
+export const SET_MOVIE_DETAILS= 'SET_MOVIE_DETAILS';
+export const SET_WATCH_LIST= 'SET_WATCH_LIST';
